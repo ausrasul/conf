@@ -1,0 +1,6 @@
+{
+	"testInt": 123,
+	"testFloat": 123.123,
+	"testBool": true,
+	"testString": "asdf"
+}
